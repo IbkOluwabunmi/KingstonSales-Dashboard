@@ -1,3 +1,5 @@
+![Project Cover](kingstondashboard_cover.png)
+
 # KingstonSales Dashboard
 
 This is an Excel-based dashboard created to analyze and visualize key sales metrics. The dashboard provides an interactive overview of sales performance, with breakdowns by category, region, and time period.
